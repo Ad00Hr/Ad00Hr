@@ -1,6 +1,6 @@
 # Adnane — Consultant AMOA · ERP & Digital Transformation
 
-**Chef de Projet Transformation Digitale** | Master IGTD — Université Mohammed V, Rabat
+**Chef de Projet Transformation Digitale** | Master IGOV — Université Mohammed V, Rabat
 Implémentation ERP @ SRM-FM · Département Transformation Digitale (Fès-Meknès)
 
 Specialised in ERP integration, business process reengineering, and SI governance.
@@ -50,6 +50,12 @@ Bridging functional consulting and technical execution across Moroccan and Europ
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white)
+
+
+## Connect
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/adnanelharti/))
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:adnanelharti03@gmail.com)
 
 <!--
 **Ad00Hr/Ad00Hr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
